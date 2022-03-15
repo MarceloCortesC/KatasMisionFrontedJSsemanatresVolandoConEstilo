@@ -1,0 +1,279 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cuadrado{
+    width: 50%;
+    height: 100px;
+    background-color: rgb(232, 236, 236);
+    position:fixed;
+    background-attachment: fixed;
+    left: 60%;
+    background-size: cover;
+    }
+
+.titulo{
+    font-weight: 700;
+    color: blue;
+    text-align: left;
+}
+
+.subtitulos{
+    font-weight: 500;
+    color:rgb(49, 49, 49);
+    text-align: center;
+}
+
+.subtitulos1{
+    font: 500;
+    color: rgb(49, 49, 49)
+}
+
+.bot1{
+    justify-content: flex-end;
+    position: relative;
+    left: 60%;
+}
+
+.fondo00{
+    width: auto;
+    height: 600px;
+    background-color: rgb(241, 250, 250);
+}
+
+.fondo1{
+    background-image: url("./imagen04.jpg");
+    width: auto;
+    height: 600px;
+    position: relative;
+    background-size: cover;
+}
+
+.text1{
+    font-weight: 700;
+    color:blue;
+    text-align: left;
+}
+.text2{
+    font-weight: 500;
+}
+
+.fondo01{
+    width: auto;
+    height: 271px;
+    background-color: rgb(241, 250, 250);
+    
+}
+.fondo001{
+    background-image: url("./imagen01.png");
+    width: auto;
+    height: 270px;
+    position: relative;
+    background-size: cover;
+}
+
+.fondo02{
+    width: auto;
+    height: 382px;
+    background-color: rgb(241, 250, 250);
+}
+.fondo002{
+    background-image: url("./img3.JPG");
+    width: auto;
+    height: 382px;
+    position: relative;
+    background-size: cover;
+}
+
+.text01{
+    font-weight: 800;
+    color:rgb(3, 87, 184);
+    text-align: left;
+}
+
+.text02{
+    font-weight: 500;
+}
+
+.fondo03{
+    width: auto;
+    height: 554px;
+    background-color: rgb(241, 250, 250);
+}
+.fondo003{
+    background-image: url("./imagen02.png");
+    width: auto;
+    height: 554px;
+    position: relative;
+    background-size: cover;
+}
+
+.text03{
+    font-weight: 700;
+    color:rgb(0, 140, 255);
+    text-align: center;
+}
+.text04{
+    font-weight: 300;
+    color:blue;
+    text-align: center;
+
+}
+.text05{
+    font-weight: 300;
+    color:rgb(0, 162, 255);
+    text-align: center;
+}
+
+.sg1{
+    width: 10px;
+    height: 10px;
+    background: blue;
+    position: relative;
+    left: 43%;
+    bottom: 342px;
+}
+.sg2{
+    width: 10px;
+    height: 10px;
+    background: blue;
+    position: relative;
+    left: 40%;
+    bottom: 340px;
+}
+.sgo3{
+    background-image: url("./seg1.JPG");
+    width: 10px;
+    height: 10px;
+    position:relative;
+    left: 45%;
+    bottom: 250px;
+}
+.sgo4{
+    background-image: url("./seg1.JPG");
+    width: 10px;
+    height: 10px;
+    position: relative;
+    left: 45%;
+    bottom: 260px;
+}
+
+.fondo04{
+    width: auto;
+    height: 708px;
+    background-color: rgb(241, 250, 250);
+}
+.fondo004{
+    background-image: url("./imagen03.png");
+    width: auto;
+    height: 708px;
+    position: relative;
+    background-size: cover;
+}
+
+.text06{
+    font-weight: 800;
+    color:rgb(0, 74, 134);
+    text-align: left;
+}
+.text07{
+    font-weight: 300;
+    color:rgb(0, 162, 255);
+    text-align: left;
+}
+
+.opt1{
+    background-image: url("./opt1.JPG");
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 10%;
+    bottom:100px;
+    transition: all 5.0 linear;
+}
+.opt2{
+    background-image: url("./opt2.JPG");
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 200%;
+    bottom:30px;
+    transition: all 5.0 linear;
+}
+.opt3{
+    background-image: url("./opt3.JPG");
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 10%;
+    bottom:100px;
+    transition: all 5.0 linear;
+}
+.opt4{
+    background-image: url("./opt4.JPG");
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 185%;
+    bottom:33px;
+    transition: all 5.0 linear;
+}
+
+.fondo05{
+    width: auto;
+    height: 383px;
+    background-color: rgb(241, 250, 250);
+}
+.fondo005{
+    background-image: url("./fondoe.jpg");
+    width: auto;
+    height: 382px;
+    position: relative;
+    background-size: cover;
+}
+.text08{
+    font-weight: 600;
+    color:blue;
+    text-align: left;
+
+}
+.text09{
+    font-weight: 300;
+    color:rgb(0, 162, 255);
+    text-align: left;
+}
+.text10{
+    font-weight: 250;
+    color:rgb(0, 162, 255);
+    text-align: left;
+}
+
+.el1{
+    background-image: url("./el1.JPG");
+    width: 120px;
+    height: 170px;
+    position: relative;
+    left: 50%;
+    bottom: 400px;
+    transition: all 5.0 linear;
+}
+
+.el2{
+    background-image: url("./el2.JPG");
+    width: 99px;
+    height: 127px;
+    position: relative;
+    left: 65%;
+    bottom: 607px;
+    transition: all 5.0 linear;
+}
+
+.el3{
+    background-image: url("./el3.JPG");
+    width: 90px;
+    height: 126px;
+    position: relative;
+    left: 80%;
+    bottom: 770px;
+    transition: all 5.0 linear;
+}
